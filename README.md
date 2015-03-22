@@ -3,3 +3,5 @@
 1) Line类，封装csv一行，增加行数属性，配合RowRangeCsvToBeanFilter使用
 2) RowRangeCsvToBeanFilter, 根据行数过滤
 3) FieldFormater/PatternFieldFormater， 支持对行的字段作格式化 
+
+单元测试  ColumnPositionMappingStrategyTest
